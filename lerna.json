@@ -1,0 +1,26 @@
+{
+  "packages": [
+    "packages/*",
+    "apps/*"
+  ],
+  "version": "0.0.0",
+  "command": {
+    "publish": {
+      "message": "chore(release): publish %s"
+    },
+    "version": {
+      "conventionalCommits": true,
+      "changelogPreset": "conventional-changelog-angular",
+      "message": "chore(release): publish %s"
+    }
+  },
+  "ignoreChanges": [
+    "ignored-file",
+    "**/*.md",
+    "**/tslint.json",
+    "**/tsconfig.json",
+    "*.md",
+    "tslint.json",
+    "tsconfig.json"
+  ]
+}
