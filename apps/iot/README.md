@@ -1,0 +1,3 @@
+# ApiProxyServer
+
+[![codecov](https://codecov.io/gh/donmahallem/xants/branch/master/graph/badge.svg?flag=ApiProxyServer)](https://codecov.io/gh/donmahallem/xants/tree/master/packages/api-proxy-server) [![npm version](https://badge.fury.io/js/%40manniwatch%2Fapi-proxy-server.svg)](https://badge.fury.io/js/%40manniwatch%2Fapi-proxy-server) [![dependencies Status](https://david-dm.org/donmahallem/xants/status.svg?path=packages/api-proxy-server)](https://david-dm.org/donmahallem/xants?path=packages/api-proxy-server) [![devDependencies Status](https://david-dm.org/donmahallem/xants/dev-status.svg?path=packages/api-proxy-server)](https://david-dm.org/donmahallem/xants?path=packages/api-proxy-server&type=dev)
