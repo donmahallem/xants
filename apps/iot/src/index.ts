@@ -1,5 +1,5 @@
 /*!
- * Source https://github.com/manniwatch/manniwatch Package: api-proxy-server
+ * Source https://github.com/donmahallem/xants Package: @donmahallem/xants-app-iot
  */
 
 import { createApiProxyRouter } from '@manniwatch/api-proxy-router';
